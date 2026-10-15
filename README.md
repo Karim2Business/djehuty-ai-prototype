@@ -1,41 +1,25 @@
-![Djehuty AI Sesh Kemet](𓏞𓀀%20Sesh%20Kemet%20𓆎𓅓𓏏𓊖%20.jpg)
-# Djehuty AI (Prototype)
+<p align="center">
+  <img src="public/Sesh%20Kemet%20𓏞𓀀%20𓆎𓅓𓏏𓊖%20.JPG.jpg" alt="Sesh Kemet - Djehuty AI" width="420" />
+</p>
 
-*Reducing prompt friction by aligning intent before anything is generated.*
+# 𓏞𓀀 Djehuty AI 
+**Persona-Driven, Intent-Alignment Tool for the Meta Global AI Developer Hackathon**
 
-> **Status: UI mockup. All responses are simulated.** There is no AI backend yet.
+> *"Understand first. Build with intent."*
 
-## The problem
-AI building tools need precise prompts. When a request is vague, users lose time and credits on misunderstandings, rework and bugs.
+---
 
-## The idea
-Djehuty AI is a concept for a three-step flow:
+## 🏛️ The Vision
+**Djehuty AI** eliminates prompt friction by introducing a rigorous 3-step workflow before any code or design is generated:
+1. **Interpreter (Describe):** Captures raw human intent and exposes ambiguity.
+2. **Builder (Clarify & Forge):** Aligns expectations and scaffolds clean Next.js architecture via V0.
+3. **Auditor (Verify):** Runs checks against the original requirements to ensure zero defects.
 
-1. **Interpreter**: restates the user's plain-language request as a few simple choices to confirm.
-2. **Builder**: creates the result based on the confirmed intent.
-3. **Auditor**: checks the result against the confirmed intent before it is delivered.
+## ⚡ Built With
+* **Framework:** Next.js (App Router, Tailwind CSS)
+* **Design & Scaffolding:** V0 by Vercel
+* **Version Control:** GitHub & GitHub Desktop
+* **AI Tooling:** Meta AI Ecosystem
 
-The name comes from Djehuty, the Egyptian name of Thoth, associated with writing and wisdom.
-
-## What exists today
-- A clickable front-end mockup of the flow (describe → confirm → build & verify), made by a solo, non-technical builder using AI-assisted tools (v0).
-- All choices, progress steps and verification results are hardcoded sample data.
-
-## What is planned (not built yet)
-- A real intent-analysis step using Meta's Muse models
-- Code generation and test-based verification
-- A small benchmark comparing retries and tokens used with and without the confirm-first flow
-
-## Run locally
-1. Install Node.js
-2. `npm install`
-3. `npm run dev`
-
-## Design
-Deep umber (#16110D), dark teal-charcoal (#1F2A2E), turquoise (#1FA8A3) and antique gold (#C9A24B).
-
-## Notes
-Independent project, not affiliated with or endorsed by Meta. Prepared as part of an application to the Meta Global AI Developer Hackathon.
-
-## License
-MIT
+---
+*Built with divine focus by Karim Ezz ElDin (Sesh Kemet).*
