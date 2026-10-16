@@ -1,5 +1,5 @@
-![Djehuty AI Sesh Kemet](𓏞𓀀%20Sesh%20Kemet%20𓆎𓅓𓏏𓊖%20.jpg)
-# Djehuty AI (Prototype)
+![THOTHRIQA AI Sesh Kemet](𓏞𓀀%20Sesh%20Kemet%20𓆎𓅓𓏏𓊖%20.jpg)
+# THOTHRIQA AI (Prototype)
 
 *Reducing prompt friction by aligning intent before anything is generated.*
 
